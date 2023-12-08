@@ -1,0 +1,82 @@
+* {
+	outline:none;
+	box-sizing: border-box;
+}
+body {
+	background-image: url(../images/concrete_seamless.png);
+	font-family: Open Sans;
+	max-width: 90%;
+	margin: 0 auto;
+}
+nav {
+	display:flex;
+	justify-content: flex-end;
+}
+
+a {
+	text-decoration: none;
+	color:#2a8782;
+	text-align: left;
+	vertical-align: top;
+}
+
+h1 {
+	color:#015770;
+	text-align: left;
+	margin:0;
+}
+button {
+	padding: 5px 10px;
+	margin:0 10px;
+}
+
+figure {
+	text-align: center;
+	margin-left: 20%;
+	transform:rotate(-5deg);
+}
+figure img {
+	padding:15px;
+	background-color: white;
+	border-radius: 15px;
+	box-shadow: 0 0 1em #898989;
+	max-width:500px;
+}
+figcaption {
+	color:#2a8782;
+	font-weight: bolder;
+	font-size:30px;
+	margin:0;
+	text-shadow: 2px 2px 2px #898989;
+
+}
+.toolbar {
+	margin: 2em 0;
+}
+.hidden {
+	display:none;
+}
+
+.fadein {
+	-webkit-animation-name: fade;
+	-webkit-animation-duration: 1s;
+	animation-name: fade;
+	animation-duration: 1s;
+}
+@-webkit-keyframes fade {
+	from {opacity: .4} 
+	to {opacity: 1}
+  }
+  
+@keyframes fade {
+	from {opacity: .4} 
+	to {opacity: 1}
+  }
+/* COLORS */
+
+/*#2a8782 : light blue;
+#015770 : dark blue;
+#898989 : grey*/
+
+/* Personalized CSS to fit with MY F***IN' NEEDS */
+
