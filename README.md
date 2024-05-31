@@ -1,4 +1,4 @@
-# Portfolio Pierre-Alexandre STERBIK - Esprit-Prof <img src="./assets/svg/assets.svg" alt="logo main" width="70" height="70" >
+<div style="display:flex;align-items:center;"><h1> Portfolio Pierre-Alexandre STERBIK - Esprit-Prof </h1><img src="./assets/svg/assets.svg" alt="logo main" width="70" height="70" ></div>
 
 ## Le stack technique
 
