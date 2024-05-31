@@ -1,32 +1,24 @@
-# Portfolio Pierre-Alexandre STERBIK - Esprit-Prof
-
-<img src="./assets/svg/assets.svg" alt="logo main" width="150" height="150" >
+# Portfolio Pierre-Alexandre STERBIK - Esprit-Prof <img src="./assets/svg/assets.svg" alt="logo main" width="70" height="70" >
 
 ## Le stack technique
 
 #### Devops
 
-
 <img src="./assets/svg/jenkins.svg" alt="jenkins" width="40" height="40"><img src="./assets/svg/sonarqube-svgrepo-com.svg" alt="sonarqube" width="40" height="40"><img src="./assets/svg/terralogo.svg" alt="terraform" width="40" height="40"><img src="./assets/svg/azure-svgrepo-com.svg" alt="azure" width="40" height="40"><img src="./assets/svg/docker-svgrepo-com.svg" alt="docker" width="40" height="40"><img src="./assets/svg/kubernetes-svgrepo-com.svg" alt="kubernetes" width="40" height="40"><img src="./assets/svg/ansible-svgrepo-com.svg" alt="ansible" width="40" height="40">
 
 #### Developer
 
+<img src="./assets/svg/javascript-svgrepo-com.svg" alt="javascript" width="40" height="40"><img src="./assets/svg/php-svgrepo-com.svg" alt="php" width="40" height="40"><img src="./assets/svg/css-3-svgrepo-com.svg" alt="css" width="40" height="40"><img src="./assets/svg/bootstrap-svgrepo-com.svg" alt="bootstrap" width="40" height="40"><img src="./assets/svg/node-svgrepo-com.svg" alt="node" width="40" height="40"><img src="./assets/svg/react-svgrepo-com.svg" alt="react" width="40" height="40"><img src="./assets/svg/mysql-svgrepo-com.svg" alt="mysql" width="40" height="40"><img src="./assets/svg/symfony-svgrepo-com.svg" alt="symfony" width="40" height="40"><img src="./assets/svg/mongodb-svgrepo-com.svg" alt="mongodb" width="40" height="40"><img src="./assets/svg/wordpress-color-svgrepo-com.svg" alt="wp" width="40" height="40"><img src="./assets/svg/androidstudio-svgrepo-com.svg" alt="androidStudio" width="40" height="40">
+
 #### Design
-<img src="./assets/svg/jenkins.svg" alt="jenkins" width="40" height="40"><img src="./assets/svg/jenkins.svg" alt="jenkins" width="40" height="40"><img src="./assets/svg/jenkins.svg" alt="jenkins" width="40" height="40"><img src="./assets/svg/jenkins.svg" alt="jenkins" width="40" height="40"><img src="./assets/svg/jenkins.svg" alt="jenkins" width="40" height="40"><img src="./assets/svg/jenkins.svg" alt="jenkins" width="40" height="40">
+
+<img src="./assets/svg/blender-svgrepo-com.svg" alt="blender" width="40" height="40"><img src="./assets/svg/figma-svgrepo-com.svg" alt="figma" width="40" height="40"><img src="./assets/svg/adobe-after-effects-svgrepo-com.svg" alt="afterFX" width="40" height="40"><img src="./assets/svg/adobe-indesign-cs6-logo-svgrepo-com.svg" alt="inDesign" width="40" height="40"><img src="./assets/svg/adobe-photoshop-svgrepo-com.svg" alt="Toshop" width="40" height="40"><img src="./assets/svg/adobe-premiere-svgrepo-com.svg" alt="premierePro" width="40" height="40">
 
 ## Les réalisations "so far"
 
-## Les collaborations et gros projets
+### Devops - Terraform
 
-### Design - Vidéo
-
-### Design - Blender
-
-### Design - CSS
-
-### Design - AI
-
-
+- [Projet déploiement CI/CD avec Terraform](https://github.com/Manianise/TP/tree/ci-cd)
 
 ### Développement - Javascript
 
@@ -34,6 +26,26 @@
 
 ### Développement - PHP
 
-### Devops - Terraform
+### Design - Vidéo
 
-- [Projet déploiement CI/CD avec Terraform](https://github.com/Manianise/TP/tree/ci-cd)
+<img src="./assets/video/movie_1.mp4" alt="movie_1" width="300" height="150">
+
+### Design - Blender
+
+<img src="./assets/video/intro.mp4" alt="movie_1" width="300" height="150">
+
+### Design - Photoshop
+
+<img src="./assets/img/refonte4.jpg" alt="Mucha" width="250" height="250">
+
+### Design - AI
+
+<img src="./assets/img/grid_0.png" alt="ballRed" width="75" height="75"><img src="./assets/img/Sterbik_pirate_skeletons_having_a_banquet_sea_bed_shipwreak_par_fd28700d-1f18-44ed-8392-34e70d276c31.png" alt="pirateBoat" width="75" height="75"><img src="./assets/img/Zebrart_harry_potter_treasure_chest_no_background_octane_render_2b8e66ba-7dd3-48d5-894a-facf2911209f.png" alt="treasure" width="75" height="75">
+
+
+## Les collaborations et freelance :
+
+- [Site de webdesign](https://www.zebrart.fr/)
+- [Site restaurant](https://www.le-parnasse-versailles.fr/)
+- [Site d'agence immobilière](https://cabinetlaclef.com/)
+
