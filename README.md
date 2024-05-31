@@ -27,7 +27,7 @@
 
 ### Développement - CSS
 
-<img src="./assets/svg/zombie.svg" alt="zombie" width="350" height="350"><img src="./assets/svg/assets.svg" alt="logo" width="350" height="350">
+<img src="./assets/svg/zombie.svg" alt="zombie" width="100" height="100"><img src="./assets/svg/assets.svg" alt="logo" width="350" height="350">
 
 ### Design - Vidéo
 
