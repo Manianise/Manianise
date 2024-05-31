@@ -27,7 +27,7 @@
 
 ### Développement - CSS
 
-<img src="./assets/svg/assets.svg" alt="logo main" width="350" height="350" >
+<img src="./assets/svg/zombie.svg" alt="logo zombie" width="350" height="350" ><img src="./assets/img/grid_0.png" alt="zombie" width="350" height="350">
 
 ### Design - Vidéo
 
