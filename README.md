@@ -28,13 +28,11 @@
 
 ### Design - Vidéo
 
-<img src="./assets/video/movie_1.mp4" alt="movie_1" width="300" height="150">
-
-![video](./assets/video/movie_1.mp4)
+![video](./assets/video/movie_1-ezgif.com-video-to-gif-converter.gif)
 
 ### Design - Blender
 
-<img src="./assets/video/intro.mp4" alt="movie_1" width="300" height="150">
+![video](./assets/video/intro-ezgif.com-video-to-gif-converter.gif)
 
 ### Design - Photoshop
 
@@ -42,7 +40,7 @@
 
 ### Design - AI
 
-<img src="./assets/img/grid_0.png" alt="ballRed" width="75" height="75"><img src="./assets/img/Sterbik_pirate_skeletons_having_a_banquet_sea_bed_shipwreak_par_fd28700d-1f18-44ed-8392-34e70d276c31.png" alt="pirateBoat" width="75" height="75"><img src="./assets/img/Zebrart_harry_potter_treasure_chest_no_background_octane_render_2b8e66ba-7dd3-48d5-894a-facf2911209f.png" alt="treasure" width="75" height="75">
+<img src="./assets/img/grid_0.png" alt="ballRed" width="150" height="150"><img src="./assets/img/Sterbik_pirate_skeletons_having_a_banquet_sea_bed_shipwreak_par_fd28700d-1f18-44ed-8392-34e70d276c31.png" alt="pirateBoat" width="150" height="150"><img src="./assets/img/Zebrart_harry_potter_treasure_chest_no_background_octane_render_2b8e66ba-7dd3-48d5-894a-facf2911209f.png" alt="treasure" width="150" height="150">
 
 
 ## Les collaborations et freelance :
