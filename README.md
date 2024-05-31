@@ -1,4 +1,4 @@
-<span style="display:flex;align-items:center;"><h1> Portfolio Pierre-Alexandre STERBIK - Esprit-Prof </h1><img src="./assets/svg/assets.svg" alt="logo main" width="70" height="70" ></span>
+<span style="display:flex;align-items:center;"><h1> Portfolio Pierre-Alexandre STERBIK - Esprit-Prof </h1></span>
 
 ## Le stack technique
 
@@ -24,7 +24,10 @@
 
 - [Projet frontend en utilisant ReactJS et ViteJS](https://github.com/Manianise/TP/tree/ci-cd)
 
-### Développement - PHP
+
+### Développement - CSS
+
+<img src="./assets/svg/assets.svg" alt="logo main" width="350" height="350" >
 
 ### Design - Vidéo
 
@@ -36,7 +39,7 @@
 
 ### Design - Photoshop
 
-<img src="./assets/img/refonte4.jpg" alt="Mucha" width="250" height="250">
+<img src="./assets/img/refonte4.jpg" alt="Mucha" width="350" height="350">
 
 ### Design - AI
 
