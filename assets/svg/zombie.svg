@@ -27,9 +27,8 @@ right:1000px;
 }
 
     </style>
-    <div class="img-timer">
         <?xml version="1.0" standalone="no"?>
-        <svg  version="1.0" xmlns="http://www.w3.org/2000/svg"
+        <svg   class="img-timer" version="1.0" xmlns="http://www.w3.org/2000/svg"
         width="1100.000000pt" height="100.000000pt" viewBox="0 0 1100.000000 100.000000"
         preserveAspectRatio="xMidYMid meet">
         
@@ -279,7 +278,6 @@ right:1000px;
         10 -33 -3 -22 -10 -22 -10 -2 6 27 22 98 13 134 -18z"/>
         </g>
         </svg>
-        </div>
     </div>
 </foreignObject>
 
