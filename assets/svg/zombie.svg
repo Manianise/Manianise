@@ -1,7 +1,5 @@
-<svg>
-<foreignObject>
-    <div class="zombie-box" xmlns="http://www.w3.org/1999/xhtml" width="1000" height="100">
-    
+<svg class="zombie-box">
+<foreignObject>    
      <style>
         
 .zombie-box {
@@ -278,8 +276,6 @@ right:1000px;
         10 -33 -3 -22 -10 -22 -10 -2 6 27 22 98 13 134 -18z"/>
         </g>
         </svg>
-    </div>
 </foreignObject>
-
 
 </svg>
