@@ -1,4 +1,0 @@
-97 left
-119 top
-100 right
-115 bottom
