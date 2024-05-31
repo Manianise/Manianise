@@ -1,4 +1,4 @@
-<div style="display:flex;align-items:center;"><h1> Portfolio Pierre-Alexandre STERBIK - Esprit-Prof </h1><img src="./assets/svg/assets.svg" alt="logo main" width="70" height="70" ></div>
+<span style="display:flex;align-items:center;"><h1> Portfolio Pierre-Alexandre STERBIK - Esprit-Prof </h1><img src="./assets/svg/assets.svg" alt="logo main" width="70" height="70" ></span>
 
 ## Le stack technique
 
@@ -29,6 +29,8 @@
 ### Design - Vidéo
 
 <img src="./assets/video/movie_1.mp4" alt="movie_1" width="300" height="150">
+
+![video](./assets/video/movie_1.mp4)
 
 ### Design - Blender
 
