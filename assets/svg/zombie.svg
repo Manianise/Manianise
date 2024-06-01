@@ -1,11 +1,34 @@
 <svg>
     <foreignObject width="100" height="100">
-    <div  xmlns="http://www.w3.org/1999/xhtml">    
+        <div  xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                
+        .zombie-box {
+            overflow :hidden;
+            width:100px;
+        }
 
-        <?xml version="1.0" standalone="no"?>
-        <svg  class="img-timer" version="1.0" xmlns="http://www.w3.org/2000/svg"
-        width="1100" height="100" viewBox="0 0 1100.000000 100.000000"
-        preserveAspectRatio="xMidYMid meet">
+        .img-timer {
+            position:relative;
+            animation : movie 0.6s infinite;
+            animation-direction:alternate;
+            animation-timing-function: steps(10, jump-start);
+
+        }
+
+        @keyframes movie {
+            0% {
+        right:0px;
+        }
+            100% {
+        right:1000px;        
+            }
+        }
+            </style>
+            <?xml version="1.0" ?>
+                <svg  class="img-timer" version="1.0" xmlns="http://www.w3.org/2000/svg"
+                        width="1100" height="100" viewBox="0 0 1100.000000 100.000000"
+                        preserveAspectRatio="xMidYMid meet">
         
         <g transform="translate(0.000000,100.000000) scale(0.100000,-0.100000)"
         fill="#000000" stroke="none">
