@@ -10,7 +10,9 @@
 
         .img-timer {
             position:absolute;
-
+            animation : movie 0.6s infinite;
+            animation-direction:alternate;
+            animation-timing-function: steps(10, jump-start);
         }
 
         @keyframes movie {
