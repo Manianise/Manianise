@@ -1,6 +1,6 @@
-<svg>
+<svg width="100" height="100">
     <foreignObject width="100" height="100">
-        <div class=".zombie-box" xmlns="http://www.w3.org/1999/xhtml">
+        <div class="zombie-box" xmlns="http://www.w3.org/1999/xhtml">
             <style>
                 
         .zombie-box {
