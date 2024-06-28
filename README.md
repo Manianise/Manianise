@@ -47,8 +47,6 @@
 ![premierepro](https://img.shields.io/badge/PremierePro-100%25-9999FF?logo=adobepremierepro)
 ![afterfx](https://img.shields.io/badge/AfterFX-100%25-9999FF?logo=adobeaftereffects)
 
-<img src="./assets/svg/blender-svgrepo-com.svg" alt="blender" width="40" height="40"><img src="./assets/svg/figma-svgrepo-com.svg" alt="figma" width="40" height="40"><img src="./assets/svg/adobe-after-effects-svgrepo-com.svg" alt="afterFX" width="40" height="40"><img src="./assets/svg/adobe-indesign-cs6-logo-svgrepo-com.svg" alt="inDesign" width="40" height="40"><img src="./assets/svg/adobe-photoshop-svgrepo-com.svg" alt="Toshop" width="40" height="40"><img src="./assets/svg/adobe-premiere-svgrepo-com.svg" alt="premierePro" width="40" height="40">
-
 ## Les réalisations "so far"
 
 ### Devops - Terraform
