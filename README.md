@@ -25,7 +25,7 @@
 | PHP | Javascript | CSS | MySQL | PostgresSQL | 
 :---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
 
-![php](https://img.shields.io/badge/PHP-80%25-777BB4?logo=php)
+![php](https://img.shields.io/badge/PHP-100%25-777BB4?logo=php)
 ![javascript](https://img.shields.io/badge/Javascript-100%25-F7DF1E?logo=javascript)
 ![css3](https://img.shields.io/badge/CSS-100%25-1572B6?logo=css3)
 ![mysql](https://img.shields.io/badge/MySQL-100%25-4479A1?logo=mysql)
