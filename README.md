@@ -17,8 +17,7 @@
 ![terraform](https://img.shields.io/badge/Terraform-90%25-844FBA?logo=terraform)
 ![docker](https://img.shields.io/badge/Docker-100%25-2496ED?logo=docker)
 ![ansible](https://img.shields.io/badge/Ansible-80%25-EE0000?logo=ansible)
-
-<img src="./assets/svg/jenkins.svg" alt="jenkins" width="40" height="40"><img src="./assets/svg/sonarqube-svgrepo-com.svg" alt="sonarqube" width="40" height="40"><img src="./assets/svg/terralogo.svg" alt="terraform" width="40" height="40"><img src="./assets/svg/azure-svgrepo-com.svg" alt="azure" width="40" height="40"><img src="./assets/svg/docker-svgrepo-com.svg" alt="docker" width="40" height="40"><img src="./assets/svg/kubernetes-svgrepo-com.svg" alt="kubernetes" width="40" height="40"><img src="./assets/svg/ansible-svgrepo-com.svg" alt="ansible" width="40" height="40">
+![ansible](https://img.shields.io/badge/Yaml-100%25-CB171E?logo=yaml)
 
 #### Developer
 
@@ -26,7 +25,15 @@
 | PHP | Javascript | CSS | MySQL | PostgresSQL | 
 :---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
 
-<img src="./assets/svg/javascript-svgrepo-com.svg" alt="javascript" width="40" height="40"><img src="./assets/svg/php-svgrepo-com.svg" alt="php" width="40" height="40"><img src="./assets/svg/css-3-svgrepo-com.svg" alt="css" width="40" height="40"><img src="./assets/svg/bootstrap-svgrepo-com.svg" alt="bootstrap" width="40" height="40"><img src="./assets/svg/node-svgrepo-com.svg" alt="node" width="40" height="40"><img src="./assets/svg/react-svgrepo-com.svg" alt="react" width="40" height="40"><img src="./assets/svg/mysql-svgrepo-com.svg" alt="mysql" width="40" height="40"><img src="./assets/svg/symfony-svgrepo-com.svg" alt="symfony" width="40" height="40"><img src="./assets/svg/mongodb-svgrepo-com.svg" alt="mongodb" width="40" height="40"><img src="./assets/svg/wordpress-color-svgrepo-com.svg" alt="wp" width="40" height="40"><img src="./assets/svg/androidstudio-svgrepo-com.svg" alt="androidStudio" width="40" height="40">
+![php](https://img.shields.io/badge/PHP-80%25-777BB4?logo=php)
+![javascript](https://img.shields.io/badge/Javascript-100%25-F7DF1E?logo=javascript)
+![css3](https://img.shields.io/badge/CSS-100%25-1572B6?logo=css3)
+![mysql](https://img.shields.io/badge/MySQL-100%25-4479A1?logo=mysql)
+![postgresql](https://img.shields.io/badge/PostgresSQL-90%25-4169E1?logo=postgresql)
+![bootstrap](https://img.shields.io/badge/Bootstrap-100%25-7952B3?logo=bootstrap)
+![nodejs](https://img.shields.io/badge/Node.js-95%25-5FA04E?logo=nodedotjs)
+![reactjs](https://img.shields.io/badge/React.JS-70%25-61DAFB?logo=react)
+![wordpress](https://img.shields.io/badge/Wordpress-100%25-21759B?logo=wordpress)
 
 #### Design
 
