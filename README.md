@@ -1,16 +1,30 @@
-<span style="display:flex;align-items:center;"><h1> Portfolio Pierre-Alexandre STERBIK - Esprit-Prof </h1></span>
+<span style="display:flex;align-items:center;"><h1> Administrateur Système et réseaux DevOps | Webdeveloper | Webdesign </h1></span>
 
-## Le stack technique
+- 🔭 I’m currently working on building a Jenkins server with Tomcat
+- 🌱 I’m currently learning advanced Ansible et Kubernetes
+- 📫 How to reach me: sterbik.pierrealexandre@gmail.com
+
+## Technical stack
 
 #### Devops
+
+| Jenkins | Sonarqube | Kubernetes | Terraform | Ansible | Docker
+:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
 
 <img src="./assets/svg/jenkins.svg" alt="jenkins" width="40" height="40"><img src="./assets/svg/sonarqube-svgrepo-com.svg" alt="sonarqube" width="40" height="40"><img src="./assets/svg/terralogo.svg" alt="terraform" width="40" height="40"><img src="./assets/svg/azure-svgrepo-com.svg" alt="azure" width="40" height="40"><img src="./assets/svg/docker-svgrepo-com.svg" alt="docker" width="40" height="40"><img src="./assets/svg/kubernetes-svgrepo-com.svg" alt="kubernetes" width="40" height="40"><img src="./assets/svg/ansible-svgrepo-com.svg" alt="ansible" width="40" height="40">
 
 #### Developer
 
+
+| PHP | Javascript | CSS | MySQL | PostgresSQL | 
+:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
+
 <img src="./assets/svg/javascript-svgrepo-com.svg" alt="javascript" width="40" height="40"><img src="./assets/svg/php-svgrepo-com.svg" alt="php" width="40" height="40"><img src="./assets/svg/css-3-svgrepo-com.svg" alt="css" width="40" height="40"><img src="./assets/svg/bootstrap-svgrepo-com.svg" alt="bootstrap" width="40" height="40"><img src="./assets/svg/node-svgrepo-com.svg" alt="node" width="40" height="40"><img src="./assets/svg/react-svgrepo-com.svg" alt="react" width="40" height="40"><img src="./assets/svg/mysql-svgrepo-com.svg" alt="mysql" width="40" height="40"><img src="./assets/svg/symfony-svgrepo-com.svg" alt="symfony" width="40" height="40"><img src="./assets/svg/mongodb-svgrepo-com.svg" alt="mongodb" width="40" height="40"><img src="./assets/svg/wordpress-color-svgrepo-com.svg" alt="wp" width="40" height="40"><img src="./assets/svg/androidstudio-svgrepo-com.svg" alt="androidStudio" width="40" height="40">
 
 #### Design
+
+| Photoshop | InDesign | AfterFX | PremierePro | Blender | Figma
+:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
 
 <img src="./assets/svg/blender-svgrepo-com.svg" alt="blender" width="40" height="40"><img src="./assets/svg/figma-svgrepo-com.svg" alt="figma" width="40" height="40"><img src="./assets/svg/adobe-after-effects-svgrepo-com.svg" alt="afterFX" width="40" height="40"><img src="./assets/svg/adobe-indesign-cs6-logo-svgrepo-com.svg" alt="inDesign" width="40" height="40"><img src="./assets/svg/adobe-photoshop-svgrepo-com.svg" alt="Toshop" width="40" height="40"><img src="./assets/svg/adobe-premiere-svgrepo-com.svg" alt="premierePro" width="40" height="40">
 
@@ -22,7 +36,7 @@
 
 ### Développement - Javascript
 
-- [Projet frontend en utilisant ReactJS et ViteJS](https://github.com/Manianise/TP/tree/ci-cd)
+- [Projet frontend en utilisant ReactJS et ViteJS](https://github.com/Manianise/spiritsPresentation)
 
 
 ### Développement - CSS
