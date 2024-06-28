@@ -1,7 +1,7 @@
 <span style="display:flex;align-items:center;"><h2> Administrateur Système et réseaux DevOps | Webdeveloper | Webdesign </h2></span>
 
 - 🔭 I’m currently working on building a Jenkins server with Tomcat
-- 🌱 I’m currently learning advanced Ansible et Kubernetes
+- 🌱 I’m currently learning advanced Ansible et Kubernetes adn Terraform
 - 📫 How to reach me : sterbik.pierrealexandre@gmail.com
 
 ## Technical stack
@@ -17,7 +17,7 @@
 ![terraform](https://img.shields.io/badge/Terraform-90%25-844FBA?logo=terraform)
 ![docker](https://img.shields.io/badge/Docker-100%25-2496ED?logo=docker)
 ![ansible](https://img.shields.io/badge/Ansible-80%25-EE0000?logo=ansible)
-![ansible](https://img.shields.io/badge/Yaml-100%25-CB171E?logo=yaml)
+![yaml](https://img.shields.io/badge/Yaml-100%25-CB171E?logo=yaml)
 
 #### Developer
 
@@ -39,6 +39,13 @@
 
 | Photoshop | InDesign | AfterFX | PremierePro | Blender | Figma
 :---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
+
+![blender](https://img.shields.io/badge/Blender-40%25-E87D0D?logo=blender)
+![figma](https://img.shields.io/badge/Figma-100%25-F24E1E?logo=figma)
+![photoshop](https://img.shields.io/badge/Photoshop-100%25-31A8FF?logo=adobephotoshop)
+![indesign](https://img.shields.io/badge/InDesign-100%25-FF3366?logo=adobeindesign)
+![premierepro](https://img.shields.io/badge/PremierePro-100%25-9999FF?logo=adobepremierepro)
+![afterfx](https://img.shields.io/badge/AfterFX-100%25-9999FF?logo=adobeaftereffects)
 
 <img src="./assets/svg/blender-svgrepo-com.svg" alt="blender" width="40" height="40"><img src="./assets/svg/figma-svgrepo-com.svg" alt="figma" width="40" height="40"><img src="./assets/svg/adobe-after-effects-svgrepo-com.svg" alt="afterFX" width="40" height="40"><img src="./assets/svg/adobe-indesign-cs6-logo-svgrepo-com.svg" alt="inDesign" width="40" height="40"><img src="./assets/svg/adobe-photoshop-svgrepo-com.svg" alt="Toshop" width="40" height="40"><img src="./assets/svg/adobe-premiere-svgrepo-com.svg" alt="premierePro" width="40" height="40">
 
@@ -73,7 +80,6 @@
 
 ## Les collaborations et freelance :
 
-- [Site de webdesign](https://www.zebrart.fr/)
-- [Site restaurant](https://www.le-parnasse-versailles.fr/)
-- [Site d'agence immobilière](https://cabinetlaclef.com/)
+| [Site de webdesign](https://www.zebrart.fr/) | [Site restaurant](https://www.le-parnasse-versailles.fr/) | [Site d'agence immobilière](https://cabinetlaclef.com/) 
+:---------------:|:---------------:|:---------------:|
 
