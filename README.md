@@ -1,4 +1,4 @@
-<span style="display:flex;align-items:center;"><h2> Administrateur Système et réseaux DevOps | Webdeveloper | Webdesign </h2></span>
+<span style="display:flex;align-items:center;font-size: smaller;"><h1> Administrateur Système et réseaux DevOps | Webdeveloper | Webdesign </h1></span>
 
 - 🔭 I’m currently working on building a Jenkins server with Tomcat
 - 🌱 I’m currently learning advanced Ansible et Kubernetes adn Terraform
