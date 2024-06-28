@@ -11,12 +11,12 @@
 | Jenkins | Sonarqube | Kubernetes | Terraform | Ansible | Docker
 :---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
 
-[!jenkins](https://img.shields.io/badge/Jenkins-100%25-D24939?logo=jenkins)
-[!sonarqube](https://img.shields.io/badge/Sonarqube-100%25-4E9BCD?logo=sonarqube)
-[!kubernetes](https://img.shields.io/badge/Kubernetes-80%25-326CE5?logo=kubernetes)
-[!terraform](https://img.shields.io/badge/Terraform-90%25-844FBA?logo=terraform)
-[!docker](https://img.shields.io/badge/Docker-100%25-2496ED?logo=docker)
-[!ansible](https://img.shields.io/badge/Ansible-80%25-EE0000?logo=ansible)
+![jenkins](https://img.shields.io/badge/Jenkins-100%25-D24939?logo=jenkins)
+![sonarqube](https://img.shields.io/badge/Sonarqube-100%25-4E9BCD?logo=sonarqube)
+![kubernetes](https://img.shields.io/badge/Kubernetes-80%25-326CE5?logo=kubernetes)
+![terraform](https://img.shields.io/badge/Terraform-90%25-844FBA?logo=terraform)
+![docker](https://img.shields.io/badge/Docker-100%25-2496ED?logo=docker)
+![ansible](https://img.shields.io/badge/Ansible-80%25-EE0000?logo=ansible)
 
 <img src="./assets/svg/jenkins.svg" alt="jenkins" width="40" height="40"><img src="./assets/svg/sonarqube-svgrepo-com.svg" alt="sonarqube" width="40" height="40"><img src="./assets/svg/terralogo.svg" alt="terraform" width="40" height="40"><img src="./assets/svg/azure-svgrepo-com.svg" alt="azure" width="40" height="40"><img src="./assets/svg/docker-svgrepo-com.svg" alt="docker" width="40" height="40"><img src="./assets/svg/kubernetes-svgrepo-com.svg" alt="kubernetes" width="40" height="40"><img src="./assets/svg/ansible-svgrepo-com.svg" alt="ansible" width="40" height="40">
 
