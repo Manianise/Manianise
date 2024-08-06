@@ -19,6 +19,10 @@
 ![ansible](https://img.shields.io/badge/Ansible-80%25-EE0000?logo=ansible)
 ![yaml](https://img.shields.io/badge/Yaml-100%25-CB171E?logo=yaml)
 
+> For a more practical approach, feel free to visit the "TP" repository for different projects using theses technologies ! [Let's find out !](https://github.com/Manianise/TP/)
+
+
+
 #### Developer
 
 
