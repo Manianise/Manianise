@@ -1,7 +1,7 @@
 <span style="display:flex;align-items:center;font-size: x-small;"><h1> Administrateur Système et réseaux DevOps | Webdeveloper | Webdesign </h1></span>
 
 - 🔭 I’m currently working on building a Jenkins server with Tomcat
-- 🌱 I’m currently learning advanced Ansible et Kubernetes adn Terraform
+- 🌱 I’m currently automating the updates of the RestAPI I built using Ansible
 - 📫 How to reach me : sterbik.pierrealexandre@gmail.com
 
 ## Technical stack
