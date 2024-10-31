@@ -1,7 +1,5 @@
 <span style="display:flex;align-items:center;font-size: x-small;"><h1> DevOps Engineer | Fullstack developer | Webdesigner </h1></span>
 
-- 🔭 I’m currently working on building a Jenkins server with Tomcat
-- 🌱 I’m currently automating the updates of the RestAPI I built using Ansible
 - 📫 How to reach me : sterbik.pierrealexandre@gmail.com
 - :trophy: You can find a step by step complete CI/CD deployment project using a plethora of devops technologies, including an AWS infrastructure, by following this link : [Link to project](https://docs.google.com/document/d/1pa4Xx0-eNUB6V12sOGlKhN1sh6cydZEe/edit?usp=drive_link&ouid=117616023064011937677&rtpof=true&sd=true)
 
@@ -12,10 +10,10 @@
 | Jenkins | Sonarqube | Kubernetes | Terraform | Ansible | Docker | Prometheus | Grafana |
 :---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
 
-> Repository for ansible, prometheus and grafana : [Link to repo](https://github.com/Manianise/ansible-prometheus-grafana)
-> Repository for docker, jenkins and sonarqube : [Linkt to repo](https://github.com/Manianise/docker-jenkins-env)
-> Repository for Terraform and AWS : [Linkt to repo](https://github.com/Manianise/terraform-ec2-aws)
-> Example of a functionning Jenkins pipeline : [Linkt to app](https://github.com/Manianise/api_nodejs)
+> Repository for ansible, prometheus and grafana : [Link to repo](https://github.com/Manianise/ansible-prometheus-grafana) \
+> Repository for docker, jenkins and sonarqube : [Linkt to repo](https://github.com/Manianise/docker-jenkins-env) \
+> Repository for Terraform and AWS : [Linkt to repo](https://github.com/Manianise/terraform-ec2-aws) \
+> Example of a functionning Jenkins pipeline : [Linkt to app](https://github.com/Manianise/api_nodejs) \
 
 
 ### Developer
@@ -24,16 +22,17 @@
 | PHP | TypeScript | Javascript | NodeJS | ReactJS | NestJS | Ruby |
 :---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
 
-> Repository for ReactJS quick app : [Link to repo](https://github.com/Manianise/spiritsPresentation)
-> Repository for RESTapi using NodeJS, ExpressJS : [Link to repo](https://github.com/Manianise/api_nodejs)
-> Repository for ReactJS quick app using tailwind : [Link to repo](https://github.com/Manianise/sterbik-react)
-> Repository for the creation of virtual machines using Vagrant : [Link to repo](https://github.com/Manianise/vagrant)
+> Repository for ReactJS quick app : [Link to repo](https://github.com/Manianise/spiritsPresentation) \
+> Repository for RESTapi using NodeJS, ExpressJS : [Link to repo](https://github.com/Manianise/api_nodejs) \
+> Repository for ReactJS quick app using tailwind : [Link to repo](https://github.com/Manianise/sterbik-react) \
+> Repository for the creation of virtual machines using Vagrant : [Link to repo](https://github.com/Manianise/vagrant) \
 
 ### Design
 
 | Adobe Suite | Blender | CSS | Tailwind | ReactJS | Bootstrap |
 :---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
 
+#### Design - CSS - SVG
 
 <img src="./assets/svg/zombie.svg" alt="zombie" width="100" height="100"><img src="./assets/svg/assets.svg" alt="logo" width="100" height="100">
 
