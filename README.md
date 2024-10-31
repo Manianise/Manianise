@@ -11,9 +11,9 @@
 :---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
 
 > Repository for ansible, prometheus and grafana : [Link to repo](https://github.com/Manianise/ansible-prometheus-grafana) \
-> Repository for docker, jenkins and sonarqube : [Linkt to repo](https://github.com/Manianise/docker-jenkins-env) \
-> Repository for Terraform and AWS : [Linkt to repo](https://github.com/Manianise/terraform-ec2-aws) \
-> Example of a functionning Jenkins pipeline : [Linkt to app](https://github.com/Manianise/api_nodejs) \
+> Repository for docker, jenkins and sonarqube : [Link to repo](https://github.com/Manianise/docker-jenkins-env) \
+> Repository for Terraform and AWS : [Link to repo](https://github.com/Manianise/terraform-ec2-aws) \
+> Example of a functionning Jenkins pipeline : [Link to app](https://github.com/Manianise/api_nodejs)
 
 
 ### Developer
@@ -25,7 +25,7 @@
 > Repository for ReactJS quick app : [Link to repo](https://github.com/Manianise/spiritsPresentation) \
 > Repository for RESTapi using NodeJS, ExpressJS : [Link to repo](https://github.com/Manianise/api_nodejs) \
 > Repository for ReactJS quick app using tailwind : [Link to repo](https://github.com/Manianise/sterbik-react) \
-> Repository for the creation of virtual machines using Vagrant : [Link to repo](https://github.com/Manianise/vagrant) \
+> Repository for the creation of virtual machines using Vagrant : [Link to repo](https://github.com/Manianise/vagrant)
 
 ### Design
 
