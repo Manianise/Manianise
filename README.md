@@ -2,6 +2,9 @@
 
 - 📫 How to reach me : sterbik.pierrealexandre@gmail.com
 - :trophy: You can find a step by step complete CI/CD deployment project using a plethora of devops technologies, including an AWS infrastructure, by following this link : [Link to project](https://docs.google.com/document/d/1pa4Xx0-eNUB6V12sOGlKhN1sh6cydZEe/edit?usp=drive_link&ouid=117616023064011937677&rtpof=true&sd=true)
+- :triangular_ruler: you can check projects in production below :
+| [Webdesign](https://www.zebrart.fr/) | [Restaurant](https://www.le-parnasse-versailles.fr/) | [Real Estate Agency](https://cabinetlaclef.com/) 
+:---------------:|:---------------:|:---------------:|
 
 ## Technical stack
 
@@ -53,6 +56,5 @@
 
 ## Collaborations and Production :
 
-| [Webdesign](https://www.zebrart.fr/) | [Restaurant](https://www.le-parnasse-versailles.fr/) | [Real Estate Agency](https://cabinetlaclef.com/) 
-:---------------:|:---------------:|:---------------:|
+
 
