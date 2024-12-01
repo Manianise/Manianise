@@ -30,7 +30,7 @@
 > Repository for RESTapi using NodeJS, ExpressJS : [Link to repo](https://github.com/Manianise/api_nodejs) \
 > Repository for ReactJS quick app using tailwind : [Link to repo](https://github.com/Manianise/sterbik-react) \
 > Repository for the creation of virtual machines using Vagrant : [Link to repo](https://github.com/Manianise/vagrant) \
-> Repository for the creation of podcast API using NestJS : [Link to repo](https://github.com/Manianise/podcast-api)
+> Repository for the creation of podcast API using NestJS : [Link to repo](https://github.com/Manianise/podcast-api) \
 > Repository for a chatbot using websockets and Javascript : [link to repo](https://github.com/Manianise/Chatssistant-SocketIO)
 
 ### Design
