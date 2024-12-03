@@ -7,6 +7,8 @@
 | [Webdesign](https://www.zebrart.fr/) | [Restaurant](https://www.le-parnasse-versailles.fr/) | [Real Estate Agency](https://cabinetlaclef.com/) 
 :---------------:|:---------------:|:---------------:|
 
+- :loudspeaker: currently working on a Flutter project to create a dynamic map and tour of the Gardens of Versailles ! if anyone is interested to participate in the project feel free to send me a message ! Repository [here](https://github.com/Manianise/versailles-gardens-fun-visit).
+
 ## Technical stack
 
 ### Devops
