@@ -28,12 +28,11 @@
 | PHP | TypeScript | Javascript | NodeJS | ReactJS | NestJS | Ruby |
 :---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
 
-> Repository for ReactJS quick app : [Link to repo](https://github.com/Manianise/spiritsPresentation) \
-> Repository for RESTapi using NodeJS, ExpressJS : [Link to repo](https://github.com/Manianise/api_nodejs) \
-> Repository for ReactJS quick app using tailwind : [Link to repo](https://github.com/Manianise/sterbik-react) \
-> Repository for the creation of virtual machines using Vagrant : [Link to repo](https://github.com/Manianise/vagrant) \
-> Repository for the creation of podcast API using NestJS : [Link to repo](https://github.com/Manianise/podcast-api) \
-> Repository for a chatbot using websockets and Javascript : [link to repo](https://github.com/Manianise/Chatssistant-SocketIO)
+> 2025 - 🔥 Microservice for Stripe API calls to automate creation of Checkout Session : [Check it out !](https://github.com/Manianise/stripe-dispute-microservice)
+> 2024 -Repository for ReactJS quick app using tailwind : [Link to repo](https://github.com/Manianise/sterbik-react) \
+> 2024 - Repository for the creation of podcast API using NestJS : [Link to repo](https://github.com/Manianise/podcast-api) \
+> 2024 - Repository for a chatbot using websockets and Javascript : [link to repo](https://github.com/Manianise/Chatssistant-SocketIO)
+> 2023 - Repository for ReactJS quick app : [Link to repo](https://github.com/Manianise/spiritsPresentation) \
 
 ### Design
 
