@@ -33,7 +33,7 @@
 > 2024 -Repository for ReactJS quick app using tailwind : [Link to repo](https://github.com/Manianise/sterbik-react) \
 > 2024 - Repository for the creation of podcast API using NestJS : [Link to repo](https://github.com/Manianise/podcast-api) \
 > 2024 - Repository for a chatbot using websockets and Javascript : [link to repo](https://github.com/Manianise/Chatssistant-SocketIO)
-> 2023 - Repository for ReactJS quick app : [Link to repo](https://github.com/Manianise/spiritsPresentation) \
+> 2023 - Repository for ReactJS quick app : [Link to repo](https://github.com/Manianise/spiritsPresentation)
 
 ### Design
 
