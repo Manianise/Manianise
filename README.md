@@ -38,29 +38,14 @@
 ### Design
 
 | Adobe Suite | Blender | CSS | Tailwind | ReactJS | Bootstrap | Figma |
-:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
+:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
+
+##### :open_file_folder: [Behance PortFolio](https://www.behance.net/gallery/220641443/Portfolio)
 
 ##### :art: [Example of a Figma prototype done in one afternoon](https://www.figma.com/proto/hRRFZdrhZjTadnBQwlZuuG/My-Prospects-App?node-id=1-194&t=tqetJTPyQXkL8PwL-1)
 
 #### Design - CSS - SVG
 
 <img src="./assets/svg/zombie.svg" alt="zombie" width="100" height="100"><img src="./assets/svg/assets.svg" alt="logo" width="100" height="100">
-
-#### Design - AfterFX - Blender
-
-![video](./assets/video/movie_1-ezgif.com-video-to-gif-converter.gif) ![video](./assets/video/intro-ezgif.com-video-to-gif-converter.gif)
-
-
-#### Design - Photoshop
-
-<img src="./assets/img/refonte4.jpg" alt="Mucha" width="350" height="350">
-
-#### Design - AI
-
-<img src="./assets/img/grid_0.png" alt="ballRed" width="200" height="200"><img src="./assets/img/Sterbik_pirate_skeletons_having_a_banquet_sea_bed_shipwreak_par_fd28700d-1f18-44ed-8392-34e70d276c31.png" alt="pirateBoat" width="200" height="200"><img src="./assets/img/Zebrart_harry_potter_treasure_chest_no_background_octane_render_2b8e66ba-7dd3-48d5-894a-facf2911209f.png" alt="treasure" width="200" height="200">
-
-
-## Collaborations and Production :
-
 
 
