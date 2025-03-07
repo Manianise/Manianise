@@ -40,9 +40,9 @@
 | Adobe Suite | Blender | CSS | Tailwind | ReactJS | Bootstrap | Figma |
 :---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
 
-##### :open_file_folder: [Behance PortFolio](https://www.behance.net/gallery/220641443/Portfolio)
-
-##### :art: [Example of a Figma prototype done in one afternoon](https://www.figma.com/proto/hRRFZdrhZjTadnBQwlZuuG/My-Prospects-App?node-id=1-194&t=tqetJTPyQXkL8PwL-1)
+> ##### :open_file_folder: [Behance PortFolio](https://www.behance.net/gallery/220641443/Portfolio)
+>
+> ##### :art: [Example of a Figma prototype done in one afternoon](https://www.figma.com/proto/hRRFZdrhZjTadnBQwlZuuG/My-Prospects-App?node-id=0-1&t=XeV0632MxmCCQBWd-1)
 
 #### Design - CSS - SVG
 
