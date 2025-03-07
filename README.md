@@ -40,7 +40,7 @@
 | Adobe Suite | Blender | CSS | Tailwind | ReactJS | Bootstrap | Figma |
 :---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
 
-:art:[Example of a Figma prototype done in one day](https://www.figma.com/proto/hRRFZdrhZjTadnBQwlZuuG/My-Prospects-App?node-id=1-194&t=tqetJTPyQXkL8PwL-1)
+##### :art: [Example of a Figma prototype done in one afternoon](https://www.figma.com/proto/hRRFZdrhZjTadnBQwlZuuG/My-Prospects-App?node-id=1-194&t=tqetJTPyQXkL8PwL-1)
 
 #### Design - CSS - SVG
 
