@@ -26,7 +26,7 @@
 ### Developer
 
 
-| PHP | TypeScript | Javascript | NodeJS | ReactJS | NestJS | Ruby |
+| Javascript | TypeScript | Python | PHP | NodeJS | React | NextJS |
 :---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
 
 > 2025 - 🔥 Microservice for Stripe API calls to automate creation of Checkout Session : [Check it out !](https://github.com/Manianise/stripe-dispute-microservice) \
@@ -47,5 +47,6 @@
 #### Design - CSS - SVG
 
 <img src="./assets/svg/zombie.svg" alt="zombie" width="100" height="100"><img src="./assets/svg/assets.svg" alt="logo" width="100" height="100">
+
 
 
